@@ -43,7 +43,7 @@ SDK Manager界面说明:
 下载完成后，继续一路next即可：
 ![Android Studio AVD Manager](2.2-7.png)
 
-配置完成后，点击Acitionis的三角即可运行虚拟机（下次启动AVD Manager时可不必重新配置）。
+配置完成后，点击Actions的三角即可运行虚拟机（下次启动AVD Manager时可不必重新配置）。
 ![Android Studio AVD Manager](2.2-8.png)
 运行效果:
 ![Android Studio AVD Manager](2.2-9.png)
