@@ -77,7 +77,7 @@ sudo chmod +s /usr/local/bin/WslInitMutilUser
 wsl WslInitMutilUser
 ```
 
-![image-20210102121050395](D:\个人文章\HYH_BlogAndNote\未分类\开机自启Windows子系统WSL的守护进程\image-20210102121050395.png)
+![image-20210102121050395](image-20210102121050395.png)
 
 ## 写入注册表自启
 
