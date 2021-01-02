@@ -12,7 +12,7 @@ Windows的WSL子系统极大的方便了Linux软件在windows下的开发。但�
 
 ## 具体思路
 
-通过注册表 计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run 运行一个WSL下的程序，再有该程序完成以下操作:
+通过注册表 计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run 运行一个WSL下的程序，再由该程序完成以下操作:
 
 1. 提权。（提升到Root权限）
 2. 依次执行/etc/rc3.d/下的文件
